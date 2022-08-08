@@ -1,0 +1,12 @@
+10
+The difference is approx. 0.014 second
+The difference is approx. 0.078 second
+100
+The difference is approx. 0.018 second
+The difference is approx. 0.191 second		* 2.4
+1000
+The difference is approx. 0.05 second
+The difference is approx. 1.432 second		* 7.49
+10000
+The difference is approx. 0.387 second
+The difference is approx. 13.641 second		* 9.52
